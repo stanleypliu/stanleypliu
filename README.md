@@ -10,11 +10,10 @@
   - the finer points of testing Vue with Jest 🧪  
   - how to facilitate responsive design using SCSS mixins 🖼 
   - how to write clean, concise tests with RSpec
-  - how to create my own SVG animations, for example SVG loaders 
 - Looking to learn ...
   - Svelte
   - Graphical visualisation libraries, whether d3.js or libraries in other languages 📊  
-  - Golang 
+  - Docker
 - 🤔 I’m looking for help with ...
   - Ruby design patterns for code - to ensure optimal performance
 - 📫 How to reach me: ...

@@ -19,4 +19,4 @@
   - Ruby design patterns for code - to ensure optimal performance
 - 📫 How to reach me: ...
   - [LinkedIn](https://uk.linkedin.com/in/stanley-liu-055330138) 
-  - [Email](stanleypliu@gmail.com)
+  - [Email](mailto: stanleypliu@gmail.com)

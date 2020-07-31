@@ -7,11 +7,11 @@
   - PostgreSQL
   - SCSS
 - 🌱 I’m currently learning ...
-  - the finer points of testing Vue with Jest 🧪  
-  - how to facilitate responsive design using SCSS mixins 🖼 
+  - how to test Vue with Jest 🧪  
+  - advanced SCSS 🖼 
   - how to write clean, concise tests with RSpec
 - Looking to learn ...
-  - Svelte
+  - TypeScript
   - Graphical visualisation libraries, whether d3.js or libraries in other languages 📊  
   - Docker
 - 🤔 I’m looking for help with ...

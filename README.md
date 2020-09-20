@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning ...
   - how to test Vue with Jest 🧪  
   - advanced SCSS 🖼 
-  - how to write clean, concise tests with RSpec
 - Looking to learn ...
   - TypeScript
   - Graphical visualisation libraries, whether d3.js or libraries in other languages 📊  

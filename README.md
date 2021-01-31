@@ -9,7 +9,6 @@
 - Looking to learn/learning ...
   - Vue with Typescript
   - GraphQL
-  - Three.js
   - Docker
 - 🤔 I’m looking for help with ...
   - Ruby/Javascript design patterns for code - to ensure optimal performance

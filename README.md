@@ -5,7 +5,6 @@
   - Vue
   - Ruby/Rails
   - PostgreSQL
-  - SCSS
 - Looking to learn/learning ...
   - Vue with Typescript
   - GraphQL

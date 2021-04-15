@@ -5,10 +5,9 @@
   - Vue
   - Ruby/Rails
   - PostgreSQL
-- Looking to learn/learning ...
+- Learning...
   - Go
-  - GraphQL
-  - Docker
+  - Wordpress
 - 📫 How to reach me: ...
   - [LinkedIn](https://uk.linkedin.com/in/stanley-liu-055330138) 
   - [Email](mailto:stanleypliu@gmail.com)

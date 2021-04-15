@@ -6,12 +6,9 @@
   - Ruby/Rails
   - PostgreSQL
 - Looking to learn/learning ...
-  - Vue with Typescript
+  - Go
   - GraphQL
   - Docker
-- 🤔 I’m looking for help with ...
-  - Ruby/Javascript design patterns for code - to ensure optimal performance
-  - Optimising complex query performance, e.g. paginating lots of results at once 
 - 📫 How to reach me: ...
   - [LinkedIn](https://uk.linkedin.com/in/stanley-liu-055330138) 
   - [Email](mailto:stanleypliu@gmail.com)
